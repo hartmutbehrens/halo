@@ -1,0 +1,3 @@
+Historical alarm archive viewer for Alcatel-Lucent OMC-R's.
+Place files in /alcatel/omc3/ufm/cgi-bin.
+Access report via https://omc.r.ip.address/ufm/cgi-bin/halo.pl
